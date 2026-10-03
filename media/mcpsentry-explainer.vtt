@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.000
+MCPSentry: the tools your agents trust, verified continuously — not once, at install time.
+
+2
+00:00:06.000 --> 00:00:15.000
+The problem: 29 percent of the most popular MCP servers carry a risk finding; more than a third of agent skills analysed were flawed; and 74 percent of organisations say their agents are over-permissioned.
+
+3
+00:00:15.000 --> 00:00:29.000
+What it does: pins and hashes every approved tool at approval; alerts on drift and rug-pulls with the diff; covers private and local servers; scans skills and context files; audits permissions and identity; and exports an Agent Bill of Materials.
+
+4
+00:00:29.000 --> 00:00:41.000
+The deliverable: a monthly attestation statement — what was pinned, what drifted, how fast the alert came, the permission findings, the BOM. The figures shown are a sample.
+
+5
+00:00:41.000 --> 00:00:50.000
+How it ships: the free, open-source scanner in the first quarter of 2027; then inventory and pinning in week one, the watch in week two, and a statement every month.
+
+6
+00:00:50.000 --> 00:00:58.000
+Published prices: the scanner is free; attestation from $1,500 a month per estate; the permission audit $5,000 to $10,000.
+
+7
+00:00:58.000 --> 00:01:05.000
+Early access in the first quarter of 2027 — rainkernel.com or hello@rainkernel.com.

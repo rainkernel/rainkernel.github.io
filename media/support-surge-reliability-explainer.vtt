@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.000
+Support-Surge Reliability: your support agent survived the demo; we make sure it survives the outage, the launch day and the invoice.
+
+2
+00:00:06.000 --> 00:00:15.000
+The problem: customer service is the most-bought agent use case; about five percent of production AI requests fail, mostly on rate limits and capacity; and most support agents waste their budget on uncached system prompts.
+
+3
+00:00:15.000 --> 00:00:29.000
+What we do: surge and rate-limit chaos tests at three, five and ten times your peak; fallback routing and model tiering; a prompt and cache audit; an independent QA harness; cost per resolution under the Governor; vendor-neutral.
+
+4
+00:00:29.000 --> 00:00:41.000
+The deliverable: a surge report showing what customers saw at five times peak, the root cause, the result with the fallback live, containment, cache coverage and cost per resolution. The figures shown are a sample.
+
+5
+00:00:41.000 --> 00:00:50.000
+How the pilot runs: days one and two, access and baseline; days three to six, chaos; days seven to nine, fixes and measurement; day ten, the readout.
+
+6
+00:00:50.000 --> 00:00:58.000
+Published prices: the two-week pilot is $7,500; the monthly run fee sits in the $8,000 to $15,000 Run and Improve band.
+
+7
+00:00:58.000 --> 00:01:05.000
+Pilots from November 2026 — rainkernel.com or hello@rainkernel.com.
