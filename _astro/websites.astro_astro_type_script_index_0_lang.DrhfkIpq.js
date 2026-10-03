@@ -1,1 +1,0 @@
-import"./contact-form.D-znyzTO.js";document.addEventListener(`astro:page-load`,()=>{let e=document.querySelector(`#w-tier`);if(e)for(let t of document.querySelectorAll(`a[data-tier]`))t.addEventListener(`click`,()=>{e.value=t.dataset.tier??``})});
