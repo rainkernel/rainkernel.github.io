@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rainkernel insights</title>
+    <link>https://rainkernel.com/insights</link>
+    <atom:link href="https://rainkernel.com/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Sourced analysis on how AI agents fail in production and the controls that catch each.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 10 Oct 2026 12:58:11 GMT</lastBuildDate>
+    <item>
+      <title>Five ways AI agents failed in production in 2026 — and the control that would have caught each</title>
+      <link>https://rainkernel.com/insights/five-ways-agents-failed-in-production-2026</link>
+      <guid isPermaLink="true">https://rainkernel.com/insights/five-ways-agents-failed-in-production-2026</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+      <description>The incidents of 2026 were not model failures. They were missing controls, and almost none of them got a CVE. Here is the catalogue, mapped to the OWASP Top 10 for Agentic Applications and to the test that finds each one before go-live.</description>
+      <category>security</category>
+      <category>agents</category>
+      <category>OWASP</category>
+    </item>
+    <item>
+      <title>The $50,000 hour: why agent cost needs a governor, not an alert</title>
+      <link>https://rainkernel.com/insights/the-50000-dollar-hour</link>
+      <guid isPermaLink="true">https://rainkernel.com/insights/the-50000-dollar-hour</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Every budget control sold today stops at the API key. The money is spent inside the agent loop, one retry, one escalation and one spawned sub-agent at a time — and the alert arrives a day later.</description>
+      <category>cost</category>
+      <category>agents</category>
+      <category>FinOps</category>
+    </item>
+  </channel>
+</rss>

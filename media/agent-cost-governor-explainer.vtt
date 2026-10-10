@@ -1,0 +1,29 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.000
+Agent Cost Governor: a budget the agent cannot exceed — per task, per step, per model — enforced inside the agent loop, before the invoice.
+
+2
+00:00:06.000 --> 00:00:15.000
+The problem: inference cost per agentic workflow is set to rise more than fivefold through 2028; one accounting agent burned $50,000 in under an hour with no attacker; and cloud billing alerts arrive about a day late.
+
+3
+00:00:15.000 --> 00:00:29.000
+What it does: a cost ceiling per task; step, depth and spawn caps; a model lock; a server-side circuit breaker; nightly reconciliation against the provider bill; and a weekly cost-per-task report.
+
+4
+00:00:29.000 --> 00:00:41.000
+The deliverable: a weekly report your platform lead, your CFO and your auditor can all read — cost per resolved case before and after, tasks halted at the ceiling, escalations blocked, reconciliation drift. The figures shown are a sample.
+
+5
+00:00:41.000 --> 00:00:50.000
+How it installs: day one, the gateway deployed in your own cloud; week one, policies as files in Git; week two, shadow mode — logged, not blocked; week three, ceilings enforced and the weekly cost-per-task report starts.
+
+6
+00:00:50.000 --> 00:00:58.000
+Published licence prices: the December pilot $1,500 a month for the first five estates, locked for a year; Standard from $2,500 a month per estate; Enterprise from $5,000 a month.
+
+7
+00:00:58.000 --> 00:01:05.000
+In build, pilot slots from December 2026. Tell us the estate size at rainkernel.com or hello@rainkernel.com.
