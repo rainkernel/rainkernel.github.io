@@ -1,0 +1,1 @@
+var e=`rk-announce-`;function t(){let t=document.querySelector(`[data-announce]`);if(!t)return;let n=t.dataset.announce??``,r=!1;try{r=localStorage.getItem(e+n)===`1`}catch{}t.hidden=r,t.querySelector(`[data-announce-dismiss]`)?.addEventListener(`click`,()=>{t.hidden=!0;try{localStorage.setItem(e+n,`1`)}catch{}})}document.addEventListener(`astro:page-load`,t);
